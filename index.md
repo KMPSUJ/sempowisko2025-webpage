@@ -28,7 +28,7 @@ Możesz też śledzić stronę naszej konferencji na platformie [Facebook](missi
 \duallang{
 ## Registration
 
-**The registration is open!** 
+**The Registration is Open!** 
 
 [Click here for registeration](https://register.sempowisko.com)
 
@@ -37,7 +37,7 @@ Stationary participation in the rest of SeMPowisko conference may come with a fe
 }{
 ## Rejestracja
 
-**Rejestracje jest otwarta!** 
+**Rejestracja jest otwarta!** 
 
 [Link do rejestracji](https://register.sempowisko.com)
 
