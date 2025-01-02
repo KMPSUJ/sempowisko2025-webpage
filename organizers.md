@@ -5,7 +5,25 @@ title="Organizers"
 \duallang{
 # Organizers
 
-To be translated...
+## Organizing Committee 
+
+* **Gabriela <!---->Kowacz** -- 3rd year student of chemistry
+* **Marianna <!---->Dekert** -- 2nd year student of biophysics (at WBBiB)
+* **Dominik Ludwik Piasecki** -- 2nd year student of physics
+* **Michał Krzysztof Mielnicki** --  2nd year student of physics
+
+## Technical Coverage 
+
+* **Bartosz Żbik** -- 2nd and 4th year student of mathematics
+* **Maciej <!---->Ziobro** -- 2nd year student of physics
+* **Mateusz Miłosz Winiarski** -- 2nd year student of biophysics (at FAIS)
+
+## Graphics and Promotion
+
+* **Anastasiya Yushchuk** -- 3rd year student of physics
+* **Daria Stocka** -- 1st year student of chemistry
+* **Emilia <!---->Wojtuła** -- 2nd year student of biophysics (at WBBiB)
+* **Natalia Gajewska** -- 1st year student of biophysics (at WBBiB)
 
 }{
 # Organizatorzy

@@ -38,3 +38,10 @@ Add here global latex commands to use throughout your pages.
 @@
 @@
 }
+
+\newcommand{\faq}[2]{~~~
+<strong>
+#1
+</strong>~~~ #2}
+
+\newcommand{\mailsempo}{[kmpsuj@uj.edu.pl](mailto:kmpsuj@uj.edu.pl)}
