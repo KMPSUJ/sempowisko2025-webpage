@@ -9,7 +9,7 @@ Are you a student of mathematics, physics, chemistry, biology, geography, comput
 Or are you not a student, but you want to listen to scientific and popular science talks in these fields?
 If you answered ‘yes’ to any of these questions, we invite you to conference SeMPowisko 2025!
 
-This year’s 23nd edition of our conference, will take place on **Date missing** in a hybrid form – stationary at the Faculty of Physics, Astronomy and Applied Computer Science of JU **Add different faculties??** and remotely on the Microsoft Teams platform.
+This year’s 23nd edition of our conference, will take place from **22nd to 25th May 2025** in a hybrid form – stationary at the Faculty of Physics, Astronomy and Applied Computer Science of JU **Add different faculties??** and remotely on the Microsoft Teams platform.
 
 You can also follow our conference page on [Facebook](missinglink).
 
@@ -19,7 +19,7 @@ Jesteś studentem matematyki, fizyki, chemii, biologii, informatyki, geografii l
 A może nie jesteś jeszcze studentem, ale chętnie posłuchasz referatów naukowych i popularnonaukowych z tych dziedzin?
 Jeśli na jedno z powyższych pytań odpowiedziałeś twierdząco, zapraszamy Cię na konferencję SeMPowisko 2025!
 
-Tegoroczna, XXIII edycja, naszej konferencji odbędzie się w dniach **TODO** roku w formie hybrydowej – stacjonarnie na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ oraz zdalnie na platformie Microsoft Teams.
+Tegoroczna, XXIII edycja, naszej konferencji odbędzie się w dniach **22 do 25 maja 2025** roku w formie hybrydowej – stacjonarnie na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ oraz zdalnie na platformie Microsoft Teams.
 
 Możesz też śledzić stronę naszej konferencji na platformie [Facebook](missinglink).
 }
