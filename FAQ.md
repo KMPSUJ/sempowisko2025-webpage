@@ -1,5 +1,5 @@
 +++
-title = "F&Q"
+title = "Q&A"
 +++
 
 \duallang{

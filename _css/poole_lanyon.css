@@ -463,7 +463,7 @@ a.sidebar-nav-iner-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: var(--header-text-color);
+  color: var(--less-inpotant-text-color);
   background-color: var(--seconadry-background-color);
 }
 
