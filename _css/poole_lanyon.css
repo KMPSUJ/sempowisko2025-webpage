@@ -6,19 +6,19 @@
  * */
 
 :root {
-  --block-background: #262626;
+  --block-background: #283433;
   --output-background: #cdcdcd;
   --small: 14px;
   --normal: 19px;
-  --text-color: #e6e6e6;
+  --text-color: #f6f2e6;
   /* more variables to make use later */
-  --background-color: #333333;
-  --seconadry-background-color: #505050;
-  --links-color: rgb(109, 145, 219);
-  --contrast-text-color: #f78f3b;
-  --header-text-color: #fff;
+  --background-color: #191f1e;
+  --seconadry-background-color: #1c2524;
+  --links-color: #51a7b1;
+  --contrast-text-color: #319065;
+  --header-text-color: #ddbd88;
 
-  --accent-color: #003866;
+  --accent-color: #283433;
   --less-inpotant-text-color: rgba(255, 255, 255, 0.5);
 }
 
