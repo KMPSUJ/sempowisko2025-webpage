@@ -342,8 +342,8 @@ tbody tr:nth-child(odd) th {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -14rem;
-  width: 14rem;
+  left: -15rem;
+  width: 15rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "Computer Modern Serif", Times, serif;
