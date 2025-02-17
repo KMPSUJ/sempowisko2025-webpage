@@ -1,7 +1,7 @@
 @def title = "SeMPowisko 2025"
 @def tags = ["main", "home"]
 
-# SeMPowisko 2025
+# \SeMPowisko 2025
 **!!! Preview, Webpage NOT Active Yet !!!**
 
 \duallang{
