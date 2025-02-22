@@ -185,6 +185,7 @@
   margin: auto;
   margin-left: 30%;
   margin-right: 30%;
+  padding: 0px;
   width: 40%;
   height: 18px;
 }
@@ -200,4 +201,5 @@
 
 .sidebar .svg-icon {
   margin-right: 0.5rem;
+  margin-left: 0.5rem;
 }
