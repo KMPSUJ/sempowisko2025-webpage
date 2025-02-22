@@ -5,10 +5,16 @@ title="Invited Speakers"
 \duallang{
 # Invited Speakers
 
-To be announced...
+## Prof. Paolo Falcaro
+\fig{/assets/speakers/falcaro}
+
+More to come!
 
 }{
 # Zaproszeni prelegenci
 
-Na razie niespodzianka :)
+## Prof. Paolo Falcaro
+\fig{/assets/speakers/falcaro}
+
+Kolejni zostaną ogłoszeniu już niebawem!
 }
