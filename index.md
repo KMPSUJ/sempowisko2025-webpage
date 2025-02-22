@@ -10,7 +10,7 @@ If you answered ‘yes’ to any of these questions, we invite you to conference
 
 This year’s 23nd edition of our conference, will take place from **22nd to 25th May 2025** in a hybrid form – stationary at 3rd campus of the Jagiellonian University at Kraków and remotely on the Microsoft Teams platform.
 
-You can also follow our conference page on [Facebook](https://www.facebook.com/events/600284489586518/) and [Instagram](https://www.instagram.com/sempowisko_2025?igsh=MXZqNWZocm8wbzg5dA==).
+You can also follow our conference page on [Facebook](https://www.facebook.com/events/600284489586518/) and [Instagram](https://www.instagram.com/sempowisko_2025).
 
 }{
 
@@ -20,7 +20,7 @@ Jeśli na jedno z powyższych pytań odpowiedziałeś twierdząco, zapraszamy Ci
 
 Tegoroczna, XXIII edycja, naszej konferencji odbędzie się w dniach **22 do 25 maja 2025** roku w formie hybrydowej – stacjonarnie na 3 kampusie Uniwersytetu Jagiellońskiego (w Krakowie na ruczaju) oraz zdalnie na platformie Microsoft Teams.
 
-Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https://www.facebook.com/events/600284489586518/) oraz [Instagram](https://www.instagram.com/sempowisko_2025?igsh=MXZqNWZocm8wbzg5dA==).
+Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https://www.facebook.com/events/600284489586518/) oraz [Instagram](https://www.instagram.com/sempowisko_2025).
 }
 
 
@@ -34,7 +34,7 @@ Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https
 [Click here for registeration](https://register.sempowisko.com)
 -->
 
-Stationary participation in the rest of SeMPowisko conference may come with a fee up to 30pln (details will be given after the registration). Online participation is free of charge.
+Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
 
 }{
 ## Rejestracja
@@ -50,7 +50,7 @@ Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia.
 
 Po zamknięciu rejestracji i sprawdzeniu wszystkich zgłoszeń pod względem merytorycznym skontaktujemy się z Uczestnikami w celu potwierdzenia przyjęcia referatu/plakatu na konferencję.
 
-Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwierdzenie przybycia. Tylko osoby, które potwierdzą swoją obecność oraz uiszczą opłatę konferencyjną w wysokości 20 zł będą zarejestrowane (Osoby uczestniczące w formie zdalnej, uczestniczą za darmo).
+Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwierdzenie przybycia. Tylko osoby, które potwierdzą swoją obecność oraz uiszczą opłatę konferencyjną w wysokości 30 zł będą zarejestrowane (Osoby uczestniczące w formie zdalnej, uczestniczą za darmo).
 }
 
 \duallang{
@@ -58,11 +58,11 @@ Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwie
 
 We invite all the students to give a speech. This year you can choose between a long speech (LS, 25 minutes), a quick speech (QS, 15 minutes) and an express speech (ES, 10 minutes). There are limited places for long speeches, so we reserve the right to choose only the most appealing abstracts if there will be more participants than places.
 
-Your presentation should fulfil the following conditions:
+Your presentation should fulfill the following conditions:
 
 The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 25 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
 In the registration form, you should provide information about the title of your presentation and short abstract (300-1200 characters). Two main bibliography positions will be a nice addition, please post them in the “comments” field.
-Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too high. 
+Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too large. 
 We will inform you via email about the acceptance of your abstract once the registration close.
 
 }{
@@ -95,7 +95,7 @@ There is NO possibility to present an online poster.
 }{
 ## Sesja Plakatowa
 
-Przed-ostatniego dnia konferencji odbędzie się sesja posterowa. Zachęcamy do przygotowania swoich plakatów, a zainteresowanych prosimy o wypełnienie stosownych pól w formularzu rejestracyjnym.
+Przedostatniego dnia konferencji odbędzie się sesja posterowa. Zachęcamy do przygotowania swoich plakatów, a zainteresowanych prosimy o wypełnienie stosownych pól w formularzu rejestracyjnym.
 
 Sesja referatowa odbywać się będzie w korytarzu wydziału FAIS UJ. Organizatorzy zapewnią specjalne sztalugi na plakaty. W wyznaczonym przedziale czasu, osoby prezentujące będą mogły stać przy swoich plakatach i opowiadać o nich zainteresowanym uczestnikom. Uczestnicy nie prezentujący plakatów będą zaproszeni do oglądania plakatów i dyskutowania z ich autorami.
 
@@ -114,29 +114,29 @@ Wymogi formalne dla plakatów:
 
 * 3rd March 2025 – start of registration
 * 30th April 2025 – end of registration
-* 22nd May 2025 - opening of the conference, Faculty of Chemistry
-* 23rd May 2025 – the second day of the conference, Faculty of Mathematics
+* 22nd May 2025 – opening of the conference, Faculty of Chemistry
+* 23rd May 2025 – the second day of the conference, Faculty of Mathematics and Computer Science
 * 24th May 2025 – the third day of the conference, Faculty of Physics, Astronomy and Applied Computer Science
 * 25th May 2025 – the fourth day of the conference, Faculty of Physics, Astronomy and Applied Computer Science
 
-All 3 faculties are located at the 3rd Campus of the Jagiellonian University
-* _Faculty of Physics, Astronomy and Applied Computer Science_ - Stanisława Łojasiewicza 11, 30-348 Kraków
-* _Faculty of Chemistry_ - Gronostajowa 2, 30-387 Kraków
-* _Faculty of Mathematics and Computer Science_ - Stanisława Łojasiewicza 6, 30-348 Kraków
+All 3 faculties are located at the 3rd Campus of the Jagiellonian University:
+* _Faculty of Physics, Astronomy and Applied Computer Science_ – Stanisława Łojasiewicza 11, 30-348 Kraków
+* _Faculty of Chemistry_ – Gronostajowa 2, 30-387 Kraków
+* _Faculty of Mathematics and Computer Science_ – Stanisława Łojasiewicza 6, 30-348 Kraków
 
 }{
 ## Harmonogram
 
 * 3 marca 2025 – otwarcie rejestracji
 * 30 kwietnia 2025 – koniec rejestracji
-* 22 maj 2025 - otwarcie konferencji, Wydział Chemii
+* 22 maj 2025 – otwarcie konferencji, Wydział Chemii
 * 23 maj 2025 – drugi dzień konferencji, Wydział Matematyki i Informatyki
 * 24 maj 2025 – trzeci dzień konferencji, Wydział Fizyki, Astronomii i Informatyki Stosowanej
 * 25 maj 2025 – czwarty dzień konferencji, Wydział Fizyki, Astronomii i Informatyki Stosowanej
 
-Wszystkie 3 wydziały znajdują się na 3 kampusie Uniwersytetu Jagiellońskiego (na ruczaju):
-* _Wydział Fizyki, Astronomii i Informatyki Stosowanej_ - Stanisława Łojasiewicza 11, 30-348 Kraków
-* _Wydział Chemii_ - Gronostajowa 2, 30-387 Kraków
-* _Wydział Matematyki i Informatyki_ - Stanisława Łojasiewicza 6, 30-348 Kraków
+Wszystkie 3 wydziały znajdują się na III Kampusie Uniwersytetu Jagiellońskiego (na Ruczaju):
+* _Wydział Fizyki, Astronomii i Informatyki Stosowanej_ – prof. Stanisława Łojasiewicza 11, 30-348 Kraków
+* _Wydział Chemii_ – Gronostajowa 2, 30-387 Kraków
+* _Wydział Matematyki i Informatyki_ – prof. Stanisława Łojasiewicza 6, 30-348 Kraków
 
 }
