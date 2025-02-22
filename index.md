@@ -2,16 +2,15 @@
 @def tags = ["main", "home"]
 
 # \SeMPowisko 2025
-**!!! Preview, Webpage NOT Active Yet !!!**
 
 \duallang{
 Are you a student of mathematics, physics, chemistry, biology, geography, computer science or other related subjects?
 Or are you not a student, but you want to listen to scientific and popular science talks in these fields?
 If you answered ‘yes’ to any of these questions, we invite you to conference SeMPowisko 2025!
 
-This year’s 23nd edition of our conference, will take place from **22nd to 25th May 2025** in a hybrid form – stationary at the Faculty of Physics, Astronomy and Applied Computer Science of JU **Add different faculties??** and remotely on the Microsoft Teams platform.
+This year’s 23nd edition of our conference, will take place from **22nd to 25th May 2025** in a hybrid form – stationary at 3rd campus of the Jagiellonian University at Kraków and remotely on the Microsoft Teams platform.
 
-You can also follow our conference page on [Facebook](missinglink).
+You can also follow our conference page on [Facebook](https://www.facebook.com/events/600284489586518/) and [Instagram](https://www.instagram.com/sempowisko_2025?igsh=MXZqNWZocm8wbzg5dA==).
 
 }{
 
@@ -19,28 +18,33 @@ Jesteś studentem matematyki, fizyki, chemii, biologii, informatyki, geografii l
 A może nie jesteś jeszcze studentem, ale chętnie posłuchasz referatów naukowych i popularnonaukowych z tych dziedzin?
 Jeśli na jedno z powyższych pytań odpowiedziałeś twierdząco, zapraszamy Cię na konferencję SeMPowisko 2025!
 
-Tegoroczna, XXIII edycja, naszej konferencji odbędzie się w dniach **22 do 25 maja 2025** roku w formie hybrydowej – stacjonarnie na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ oraz zdalnie na platformie Microsoft Teams.
+Tegoroczna, XXIII edycja, naszej konferencji odbędzie się w dniach **22 do 25 maja 2025** roku w formie hybrydowej – stacjonarnie na 3 kampusie Uniwersytetu Jagiellońskiego (w Krakowie na ruczaju) oraz zdalnie na platformie Microsoft Teams.
 
-Możesz też śledzić stronę naszej konferencji na platformie [Facebook](missinglink).
+Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https://www.facebook.com/events/600284489586518/) oraz [Instagram](https://www.instagram.com/sempowisko_2025?igsh=MXZqNWZocm8wbzg5dA==).
 }
 
 
 \duallang{
 ## Registration
 
+**Will open soon**
+<!--
 **The Registration is Open!** 
 
 [Click here for registeration](https://register.sempowisko.com)
+-->
 
 Stationary participation in the rest of SeMPowisko conference may come with a fee up to 30pln (details will be given after the registration). Online participation is free of charge.
 
 }{
 ## Rejestracja
 
+**Zostanie otwarta wkrótce**
+<!--
 **Rejestracja jest otwarta!** 
 
 [Link do rejestracji](https://register.sempowisko.com)
-
+-->
 
 Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia. Prosimy o szczegółowe sprawdzenie danych, które zostały wprowadzone – dokładnie w takiej formie znajdą się one w książce abstraktów oraz na zaświadczeniach. W przypadku odnalezienia błędów prosimy o niezwłoczny kontakt.
 
@@ -107,29 +111,32 @@ Wymogi formalne dla plakatów:
 \duallang{
 ## Schedule
 
-**TODO** 
 
-* 12.01.2024 – start of registration
-* 15.03.2024 22.03.2024 – end of registration
-* 18.04.2024 – opening of the conference, WFAIS
-* 19.04.2024 – the second day of the conference, WFAIS
-* 20.04.2024 – the third day of the conference, Auditorium Maximum
-* 21.04.2024 – the fourth day of the conference, WFAIS
+* 3rd March 2025 – start of registration
+* 30th April 2025 – end of registration
+* 22nd May 2025 - opening of the conference, Faculty of Chemistry
+* 23rd May 2025 – the second day of the conference, Faculty of Mathematics
+* 24th May 2025 – the third day of the conference, Faculty of Physics, Astronomy and Applied Computer Science
+* 25th May 2025 – the fourth day of the conference, Faculty of Physics, Astronomy and Applied Computer Science
 
-WFAIS = Faculty of Physics, Astronomy and Applied Computer Science, Łojasiewicza 11
+All 3 faculties are located at the 3rd Campus of the Jagiellonian University
+* _Faculty of Physics, Astronomy and Applied Computer Science_ - Stanisława Łojasiewicza 11, 30-348 Kraków
+* _Faculty of Chemistry_ - Gronostajowa 2, 30-387 Kraków
+* _Faculty of Mathematics and Computer Science_ - Stanisława Łojasiewicza 6, 30-348 Kraków
 
 }{
 ## Harmonogram
 
-**TODO** 
+* 3 marca 2025 – otwarcie rejestracji
+* 30 kwietnia 2025 – koniec rejestracji
+* 22 maj 2025 - otwarcie konferencji, Wydział Chemii
+* 23 maj 2025 – drugi dzień konferencji, Wydział Matematyki i Informatyki
+* 24 maj 2025 – trzeci dzień konferencji, Wydział Fizyki, Astronomii i Informatyki Stosowanej
+* 25 maj 2025 – czwarty dzień konferencji, Wydział Fizyki, Astronomii i Informatyki Stosowanej
 
-* 12.01.2024 – start of registration
-* 15.03.2024 22.03.2024 – end of registration
-* 18.04.2024 – opening of the conference, WFAIS
-* 19.04.2024 – the second day of the conference, WFAIS
-* 20.04.2024 – the third day of the conference, Auditorium Maximum
-* 21.04.2024 – the fourth day of the conference, WFAIS
-
-WFAIS = Faculty of Physics, Astronomy and Applied Computer Science, Łojasiewicza 11
+Wszystkie 3 wydziały znajdują się na 3 kampusie Uniwersytetu Jagiellońskiego (na ruczaju):
+* _Wydział Fizyki, Astronomii i Informatyki Stosowanej_ - Stanisława Łojasiewicza 11, 30-348 Kraków
+* _Wydział Chemii_ - Gronostajowa 2, 30-387 Kraków
+* _Wydział Matematyki i Informatyki_ - Stanisława Łojasiewicza 6, 30-348 Kraków
 
 }
