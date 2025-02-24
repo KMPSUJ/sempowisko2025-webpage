@@ -60,7 +60,7 @@ We invite all the students to give a speech. This year you can choose between a 
 
 Your presentation should fulfill the following conditions:
 
-The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 25 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
+The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 20 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
 In the registration form, you should provide information about the title of your presentation and short abstract (300-1200 characters). Two main bibliography positions will be a nice addition, please post them in the “comments” field.
 Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too large. 
 We will inform you via email about the acceptance of your abstract once the registration close.
@@ -68,7 +68,7 @@ We will inform you via email about the acceptance of your abstract once the regi
 }{
 ## Referaty
 
-Zapraszamy wszystkich studentów do wygłaszania referatów, zarówno stacjonarnie jak i w formie online. W tym roku przewidujemy trzy typy referatów – długie (25 minut), krótkie (15 minut) i ekspresowe (10 minut). Ilość długich referatów jest ograniczona, więc zastrzegamy sobie prawo do wybrania najciekawszych abstraktów, gdy zgłoszeń będzie więcej niż miejsc.
+Zapraszamy wszystkich studentów do wygłaszania referatów, zarówno stacjonarnie jak i w formie online. W tym roku przewidujemy trzy typy referatów – długie (20 minut), krótkie (15 minut) i ekspresowe (10 minut). Ilość długich referatów jest ograniczona, więc zastrzegamy sobie prawo do wybrania najciekawszych abstraktów, gdy zgłoszeń będzie więcej niż miejsc.
 
 Referaty powinny spełniać kilka warunków:
 
