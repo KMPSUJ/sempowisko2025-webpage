@@ -11,6 +11,7 @@
   --small: 14px;
   --normal: 19px;
   --text-color: #f6f2e6;
+  --sidebar-width: 15.5rem;
   /* more variables to make use later */
   --background-color: #191f1e;
   --seconadry-background-color: #1c2524;
@@ -342,8 +343,8 @@ tbody tr:nth-child(odd) th {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -15rem;
-  width: 15rem;
+  left: calc(var(--sidebar-width) * -1);
+  width: var(--sidebar-width);
   visibility: hidden;
   overflow-y: auto;
   font-family: "Computer Modern Serif", Times, serif;
@@ -380,7 +381,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .sidebar-item {
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .sidebar-item p:last-child {
@@ -418,7 +419,7 @@ a.sidebar-nav-iner-item:focus {
 
 @media (min-width: 48rem) {
   .sidebar-item {
-    padding: 1.5rem;
+    padding: 1rem;
   }
 
   .sidebar-nav-item,
@@ -515,9 +516,9 @@ a.sidebar-nav-iner-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-  -ms-transform: translateX(14rem);
-  transform: translateX(14rem);
+  -webkit-transform: translateX(var(--sidebar-width));
+  -ms-transform: translateX(var(--sidebar-width));
+  transform: translateX(var(--sidebar-width));
 }
 
 code {

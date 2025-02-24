@@ -101,9 +101,9 @@
 }
 
 #sidebar-checkbox:checked ~ .lang-toggle {
-  -webkit-transform: translateX(14rem);
-  -ms-transform: translateX(14rem);
-  transform: translateX(14rem);
+  -webkit-transform: translateX(var(--sidebar-width));
+  -ms-transform: translateX(var(--sidebar-width));
+  transform: translateX(var(--sidebar-width));
 }
 /* Style the `label` differently when the checkbox is checked */
 #lang-checkbox:checked ~ .lang-toggle::before {
@@ -200,6 +200,6 @@
 }
 
 .sidebar .svg-icon {
-  margin-right: 0.5rem;
-  margin-left: 0.5rem;
+  margin-right: 0.2rem;
+  margin-left: 0.1rem;
 }
