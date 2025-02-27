@@ -73,7 +73,7 @@ Zapraszamy wszystkich studentów do wygłaszania referatów, zarówno stacjonarn
 Referaty powinny spełniać kilka warunków:
 
 1. Referat powinien być w języku angielskim. Referaty w innych językach będą odrzucane.
-2. Referat powinien zająć maksymalnie 10 minut (ekspresowy)/ 15 minut (krótki)/ 25 minut (długi). Po nim będzie czas na krótką (4–7 minut) dyskusję.
+2. Referat powinien zająć maksymalnie 10 minut (ekspresowy)/ 15 minut (krótki)/ 20 minut (długi). Po nim będzie czas na krótką (4–7 minut) dyskusję.
 3. W formularzu rejestracyjnym należy umieścić informacje o tytule referatu i krótki abstrakt (300–1200 znaków). Dwie główne pozycje z bibliografii będą mile widziane w uwagach.
 4. Organizatorzy zastrzegają sobie możliwość odrzucenia prezentacji, jeżeli zostanie ona uznana za nienaukową ani niepopularnonaukową, lub gdy liczba zgłoszeń będzie zbyt duża.
 
@@ -86,25 +86,36 @@ O przyjęciu referatu poinformujemy mailowo po zakończeniu rejestracji.
 
 On the third day of the conference, we will hold the poster session. We encourage you to create your poster and fill proper fields in the registration form.
 
-### Formal requirements for posters:
+### Formal Requirements for posters
 
 The poster size should be no larger than A0 format, but no smaller than A2 format.
 Posters can be reviews or be based on original research.
 There is NO possibility to present an online poster.
+
+### Flash Presentation for Posters
+Flash presentations are a dynamic and engaging way to introduce your poster to conference attendees. Participants selected for a flash presentation will have the opportunity to present a brief overview (5 minutes) of their poster before the poster session begins. This is a great way to highlight the key points of your research and attract interest from the audience.
+
+If you are interested in giving a flash presentation, please indicate your preference during the submission process.
+The organizing committee will review all submissions and select participants based on the relevance and impact of their research.
 
 }{
 ## Sesja Plakatowa
 
 Przedostatniego dnia konferencji odbędzie się sesja posterowa. Zachęcamy do przygotowania swoich plakatów, a zainteresowanych prosimy o wypełnienie stosownych pól w formularzu rejestracyjnym.
 
-Sesja referatowa odbywać się będzie w korytarzu wydziału FAIS UJ. Organizatorzy zapewnią specjalne sztalugi na plakaty. W wyznaczonym przedziale czasu, osoby prezentujące będą mogły stać przy swoich plakatach i opowiadać o nich zainteresowanym uczestnikom. Uczestnicy nie prezentujący plakatów będą zaproszeni do oglądania plakatów i dyskutowania z ich autorami.
+Sesja referatowa odbywać się będzie w korytarzu wydziału FAIS UJ. Organizatorzy zapewnią specjalne sztalugi na plakaty. W wyznaczonym przedziale czasu, osoby prezentujące będą mogły stać przy swoich plakatach i opowiadać o nich zainteresowanym uczestnikom.
+Uczestnicy nie prezentujący plakatów będą zaproszeni do oglądania plakatów i dyskutowania z ich autorami.
 
-Wymogi formalne dla plakatów:
+### Wymogi formalne dla plakatów
 
 1. Plakat powinien mieć format nie mniejszy niż A2 i nie większy niż A0.
 2. Prezentowane plakaty mogą mieć charakter przeglądowy lub oparty o własne wyniki badań.
 3. Czynny udział w sesji plakatowej jest możliwy tylko stacjonarnie. Jeżeli chcesz przedstawić plakat zdalnie, zachęcamy do zgłoszenia go jako referat (ekspresowy lub krótki).
 4. W formularzu rejestracyjnym należy umieścić informacje o tytule referatu i krótki abstrakt (300–1200 znaków). Dwie główne pozycje z bibliografii będą mile widziane w uwagach.
+
+### Błyskawiczne prezentacje posterów
+Prezentacje błyskawiczne to sposób na szybkie wprowadzenie uczestników w tematykę swojego plakatu. Wybrani uczestnicy będą mieli 5 minut na zaprezentowanie kluczowych punktów swoich badań przed sesją plakatową, co pomoże przyciągnąć uwagę publiczności.
+Jeśli chcesz wygłosić prezentację błyskawiczną, zaznacz to podczas składania zgłoszenia. Komitet organizacyjny wybierze uczestników, których badania będą najciekawsze dla reszty uczestników konferencji.
 }
 
 
