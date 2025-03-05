@@ -1,5 +1,9 @@
-@def title = "SeMPowisko 2025"
-@def tags = ["main", "home"]
+\naglowek
+
++++
+title = "SeMPowisko 2025"
+tags = ["main", "home"]
++++
 
 # \SeMPowisko 2025
 
@@ -27,24 +31,18 @@ Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https
 \duallang{
 ## Registration
 
-**Will open soon**
-<!--
 **The Registration is Open!** 
 
 [Click here for registeration](https://register.sempowisko.com)
--->
 
 Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
 
 }{
 ## Rejestracja
 
-**Zostanie otwarta wkrótce**
-<!--
 **Rejestracja jest otwarta!** 
 
 [Link do rejestracji](https://register.sempowisko.com)
--->
 
 Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia. Prosimy o szczegółowe sprawdzenie danych, które zostały wprowadzone – dokładnie w takiej formie znajdą się one w książce abstraktów oraz na zaświadczeniach. W przypadku odnalezienia błędów prosimy o niezwłoczny kontakt.
 
