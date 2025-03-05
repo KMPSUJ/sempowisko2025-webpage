@@ -1,4 +1,3 @@
-\naglowek
 
 +++
 title = "SeMPowisko 2025"
