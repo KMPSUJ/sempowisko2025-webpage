@@ -53,7 +53,7 @@ Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwie
 \duallang{
 ## Talks
 
-We invite all the students to give a speech. This year you can choose between a long speech (LS, 25 minutes), a quick speech (QS, 15 minutes) and an express speech (ES, 10 minutes). There are limited places for long speeches, so we reserve the right to choose only the most appealing abstracts if there will be more participants than places.
+We invite all the students to give a speech. This year you can choose between a long speech (LS, 20 minutes), a quick speech (QS, 15 minutes) and an express speech (ES, 10 minutes). There are limited places for long speeches, so we reserve the right to choose only the most appealing abstracts if there will be more participants than places.
 
 Your presentation should fulfill the following conditions:
 
