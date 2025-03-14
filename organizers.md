@@ -7,7 +7,7 @@ title="Organizers"
 
 ## Organizing Committee 
 
-* **Gabriela <!---->Kowacz** -- 3rd year student of chemistry
+* **Gabriela Maria Kowacz** -- 3rd year student of chemistry
 * **Marianna Klara Dekert** -- 2nd year student of biophysics (at WBBiB)
 * **Dominik Ludwik Piasecki** -- 2nd year student of physics
 * **Michał Krzysztof Mielnicki** --  2nd year student of physics
@@ -30,7 +30,7 @@ title="Organizers"
 
 ## Komitet główny
 
-* **Gabriela <!---->Kowacz** -- studentka 3 roku chemii
+* **Gabriela Maria Kowacz** -- studentka 3 roku chemii
 * **Marianna Klara Dekert** -- studentka 2 roku biofizyki molekularnej i komórkowej
 * **Dominik Ludwik Piasecki** -- student 2 roku fizyki
 * **Michał Krzysztof Mielnicki** -- student 2 roku fizyki
