@@ -57,7 +57,7 @@ We invite all the students to give a speech. This year you can choose between a 
 
 Your presentation should fulfill the following conditions:
 
-The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 20 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
+Be in English. The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 20 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
 In the registration form, you should provide information about the title of your presentation and short abstract (300-1200 characters). Two main bibliography positions will be a nice addition, please post them in the “comments” field.
 Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too large. 
 We will inform you via email about the acceptance of your abstract once the registration close.
@@ -73,6 +73,7 @@ Referaty powinny spełniać kilka warunków:
 2. Referat powinien zająć maksymalnie 10 minut (ekspresowy)/ 15 minut (krótki)/ 20 minut (długi). Po nim będzie czas na krótką (4–7 minut) dyskusję.
 3. W formularzu rejestracyjnym należy umieścić informacje o tytule referatu i krótki abstrakt (300–1200 znaków). Dwie główne pozycje z bibliografii będą mile widziane w uwagach.
 4. Organizatorzy zastrzegają sobie możliwość odrzucenia prezentacji, jeżeli zostanie ona uznana za nienaukową ani niepopularnonaukową, lub gdy liczba zgłoszeń będzie zbyt duża.
+5. Być wygłoszonym w języku angielskim.
 
 O przyjęciu referatu poinformujemy mailowo po zakończeniu rejestracji.
 }
@@ -88,6 +89,7 @@ On the third day of the conference, we will hold the poster session. We encourag
 The poster size should be no larger than A0 format, but no smaller than A2 format.
 Posters can be reviews or be based on original research.
 There is NO possibility to present an online poster.
+Posters should be in English.
 
 ### Flash Presentation for Posters
 Flash presentations are a dynamic and engaging way to introduce your poster to conference attendees. Participants selected for a flash presentation will have the opportunity to present a brief overview (5 minutes) of their poster before the poster session begins. This is a great way to highlight the key points of your research and attract interest from the audience.
@@ -109,6 +111,7 @@ Uczestnicy nie prezentujący plakatów będą zaproszeni do oglądania plakatów
 2. Prezentowane plakaty mogą mieć charakter przeglądowy lub oparty o własne wyniki badań.
 3. Czynny udział w sesji plakatowej jest możliwy tylko stacjonarnie. Jeżeli chcesz przedstawić plakat zdalnie, zachęcamy do zgłoszenia go jako referat (ekspresowy lub krótki).
 4. W formularzu rejestracyjnym należy umieścić informacje o tytule referatu i krótki abstrakt (300–1200 znaków). Dwie główne pozycje z bibliografii będą mile widziane w uwagach.
+5. Posters should be in English.
 
 ### Błyskawiczne prezentacje posterów
 Prezentacje błyskawiczne to sposób na szybkie wprowadzenie uczestników w tematykę swojego plakatu. Wybrani uczestnicy będą mieli 5 minut na zaprezentowanie kluczowych punktów swoich badań przed sesją plakatową, co pomoże przyciągnąć uwagę publiczności.
