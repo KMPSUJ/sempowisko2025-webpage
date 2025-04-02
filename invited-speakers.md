@@ -8,6 +8,9 @@ title="Invited Speakers"
 ## Prof. Paolo Falcaro
 \fig{/assets/speakers/falcaro}
 
+## Dr. Jakub Czartowski
+\fig{/assets/speakers/czartowski}
+
 More to come!
 
 }{
@@ -15,6 +18,9 @@ More to come!
 
 ## Prof. Paolo Falcaro
 \fig{/assets/speakers/falcaro}
+
+## Dr. Jakub Czartowski
+\fig{/assets/speakers/czartowski}
 
 Kolejni zostaną ogłoszeniu już niebawem!
 }
