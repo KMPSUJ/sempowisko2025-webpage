@@ -32,7 +32,7 @@ Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https
 
 **The Registration is Open!** 
 
-[Click here for registeration](https://register.sempowisko.com)
+[Click here for registration](https://register.sempowisko.com)
 
 Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
 
