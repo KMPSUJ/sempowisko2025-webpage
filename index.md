@@ -124,7 +124,7 @@ Jeśli chcesz wygłosić prezentację błyskawiczną, zaznacz to podczas składa
 
 
 * 3rd March 2025 – start of registration
-* 30th April 2025 – end of registration
+* ~~30th April 2025~~ 7th May 2025 – end of registration
 * 22nd May 2025 – opening of the conference, Faculty of Chemistry
 * 23rd May 2025 – the second day of the conference, Faculty of Mathematics and Computer Science
 * 24th May 2025 – the third day of the conference, Faculty of Physics, Astronomy and Applied Computer Science
@@ -139,7 +139,7 @@ All 3 faculties are located at the 3rd Campus of the Jagiellonian University:
 ## Harmonogram
 
 * 3 marca 2025 – otwarcie rejestracji
-* 30 kwietnia 2025 – koniec rejestracji
+* ~~30 kwietnia 2025~~ 7 maja 2025 – koniec rejestracji
 * 22 maj 2025 – otwarcie konferencji, Wydział Chemii
 * 23 maj 2025 – drugi dzień konferencji, Wydział Matematyki i Informatyki
 * 24 maj 2025 – trzeci dzień konferencji, Wydział Fizyki, Astronomii i Informatyki Stosowanej
