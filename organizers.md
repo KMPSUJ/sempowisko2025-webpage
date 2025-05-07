@@ -16,7 +16,7 @@ title="Organizers"
 
 * **Bartosz Żbik** -- 2nd and 4th year student of mathematics
 * **Maciej Ziobro** -- 2nd year student of physics
-* **Mateusz Miłosz Winiarski** -- 2nd year student of biophysics (at FAIS)
+* **Mateusz Miłosz Winiarski** -- 4nd year student of biophysics (at FAIS)
 
 ## Graphics and Promotion
 
