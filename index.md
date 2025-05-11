@@ -30,24 +30,15 @@ Możesz też śledzić stronę naszej konferencji na platformie [Facebook](https
 \duallang{
 ## Registration
 
-**The Registration is Open!** 
-
-[Click here for registration](https://register.sempowisko.com)
-
-Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
+**The Registration is closed :( BUT** if you want to participate, it is still possible after contacting the organizers through email \mailsempo.
+However we won't be able to provide dinner or other conference materials.
 
 }{
 ## Rejestracja
 
-**Rejestracja jest otwarta!** 
+**Rejestracja jest już zamknięta :( ALE** jeśli dalej chcesz wziąć udział, to jest taka możliwość po mailowym kontakcie z organizatorami \mailsemp.
+Jednakże nie będziemy mogli zapewnić obiadu ani materiałów konferencyjnych.
 
-[Link do rejestracji](https://register.sempowisko.com)
-
-Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia. Prosimy o szczegółowe sprawdzenie danych, które zostały wprowadzone – dokładnie w takiej formie znajdą się one w książce abstraktów oraz na zaświadczeniach. W przypadku odnalezienia błędów prosimy o niezwłoczny kontakt.
-
-Po zamknięciu rejestracji i sprawdzeniu wszystkich zgłoszeń pod względem merytorycznym skontaktujemy się z Uczestnikami w celu potwierdzenia przyjęcia referatu/plakatu na konferencję.
-
-Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwierdzenie przybycia. Tylko osoby, które potwierdzą swoją obecność oraz uiszczą opłatę konferencyjną w wysokości 30 zł będą zarejestrowane (Osoby uczestniczące w formie zdalnej, uczestniczą za darmo).
 }
 
 \duallang{
