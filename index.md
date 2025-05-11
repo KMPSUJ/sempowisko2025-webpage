@@ -36,7 +36,7 @@ However we won't be able to provide dinner or other conference materials.
 }{
 ## Rejestracja
 
-**Rejestracja jest już zamknięta :( ALE** jeśli dalej chcesz wziąć udział, to jest taka możliwość po mailowym kontakcie z organizatorami \mailsemp.
+**Rejestracja jest już zamknięta :( ALE** jeśli dalej chcesz wziąć udział, to jest taka możliwość po mailowym kontakcie z organizatorami \mailsempo.
 Jednakże nie będziemy mogli zapewnić obiadu ani materiałów konferencyjnych.
 
 }
