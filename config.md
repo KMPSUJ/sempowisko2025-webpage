@@ -50,3 +50,14 @@ Add here global latex commands to use throughout your pages.
 
 \newcommand{\strike}[1]{~~~<span style="text-decoration:line-through">#1</span>~~~}
 
+\newcommand{\krkbanner}{~~~
+<a href="https://dlabiznesu.krakow.pl/nauka">
+    <div class="banner">
+      <img src="/assets/krakow/banner.jpg" alt="Banner, City of Kraków">
+    </div>
+  </a>
+~~~}
+
+\newcommand{\harmitem}[6]{~~~
+<li> #1 #3 #4 <i>(location: #2)</i> </li>
+~~~}

@@ -4,6 +4,8 @@ title = "SeMPowisko 2025"
 tags = ["main", "home"]
 +++
 
+\krkbanner
+
 # \SeMPowisko 2025
 
 \duallang{
@@ -112,7 +114,7 @@ Jeśli chcesz wygłosić prezentację błyskawiczną, zaznacz to podczas składa
 
 \duallang{
 ## Schedule
-
+[Full shedule](/timetable/)
 
 * 3rd March 2025 – start of registration
 * \strike{30th April 2025} 7th May 2025 – end of registration
@@ -128,6 +130,7 @@ All 3 faculties are located at the 3rd Campus of the Jagiellonian University:
 
 }{
 ## Harmonogram
+[Pełny harmonogram](/timetable/)
 
 * 3 marca 2025 – otwarcie rejestracji
 * \strike{30 kwietnia 2025} 7 maja 2025 – koniec rejestracji
@@ -142,3 +145,28 @@ Wszystkie 3 wydziały znajdują się na III Kampusie Uniwersytetu Jagiellońskie
 * _Wydział Matematyki i Informatyki_ – prof. Stanisława Łojasiewicza 6, 30-348 Kraków
 
 }
+
+## Patrons
+Honorary Patronage of the Rector of the Jagiellonian University
+
+National Centre For Nuclear Research Świerk
+
+Copernicus Center for Interdisciplinary Studies of the Jagiellonian University
+
+Polish Academy of Sciences, branch in Kraków
+
+Jagiellonian University in Kraków
+
+## Partner
+\fig{/assets/krakow/Logo_H}
+
+## Sponsors
+Centre for Interdisciplinary Individual Studies in Mathematics and Natural Sciences
+
+Faculty of Physics, Astronomy and Applied Computer Science of Jagiellonian University
+
+The Foundation of Students and Graduates of the Jagiellonian University "Bratniak"
+
+Student’s Council at the Faculty of Physics, Astronomy and Applied Computer Science
+
+Jagiellonian University Council of Student Circles
