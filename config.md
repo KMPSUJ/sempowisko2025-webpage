@@ -58,6 +58,4 @@ Add here global latex commands to use throughout your pages.
   </a>
 ~~~}
 
-\newcommand{\harmitem}[6]{~~~
-<li> #1 #3 #4 <i>(location: #2)</i> </li>
-~~~}
+\newcommand{\harmitem}[6]{~~~<li>~~~ __!#1__ #3 #4 _(location: #2)_ ~~~</li>~~~}

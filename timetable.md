@@ -18,7 +18,7 @@ title="SeMPowisko timetable"
 \harmitem{14:35--15:05}{WCh A0-01}{}{Coffee break}{}{}
 \harmitem{15:05--15:30}{WCh A0-01}{Photoluminescent metal organic frameworks for optical sensing}{Marta Niemiec}{148}{chemia}
 \harmitem{15:30--15:50}{WCh A0-01}{The iEDDA reaction to the rescue: introducing ‘difficult’ functional groups into a new metal-organic framework (JUK-74)}{Gabriela Kowacz}{186}{chemia}
-\harmitem{15:50--16:15}{WCh A0-01}{High temperature photomagnetic sponge based on \ce{[Mo^{III}(CN)_{8}]^{4-}}}{Wiktor Wolański}{112}{chemia}
+\harmitem{15:50--16:15}{WCh A0-01}{High temperature photomagnetic sponge based on $[Mo^{III}(CN)_{7}]^{4-}$}{Wiktor Wolański}{112}{chemia}
 \harmitem{16:15--16:35}{WCh A0-01}{Biological studies on ferrocene derivatives of cyclin-dependent kinase inhibitor}{Eryk Federyga}{43}{chemia}
 \harmitem{16:35--17:05}{WCh}{}{Coffee break}{}{}
 \harmitem{17:05--17:25}{WCh A0-01}{A Novel Vitamin E-Based Raman Probe for Selective Imaging of Lipids and Mitochondria}{Kacper Siąkała}{62}{biologia}
