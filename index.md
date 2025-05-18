@@ -159,6 +159,7 @@ Jagiellonian University in Kraków
 
 ## Partner
 \fig{/assets/krakow/Logo_H}
+Biznes i Nauka w Krakowie: [Facebook](https://www.facebook.com/BiznesiNaukawKrakowie), [Strona](https://dlabiznesu.krakow.pl/nauka)
 
 ## Sponsors
 Centre for Interdisciplinary Individual Studies in Mathematics and Natural Sciences
