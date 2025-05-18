@@ -51,7 +51,7 @@ title="SeMPowisko timetable"
 \harmitem{18:40--19:00}{WMiI 1093}{Talking with the Satellites: Building a Low-Cost Ground Station with SatNOGS}{Mateusz Winiarski}{2}{inzynieria}
 ~~~</ul>~~~
 
-## Sunday, May 25th
+## Saturday, May 24th
 ~~~<ul>~~~
 \harmitem{10:15--10:35}{WFAIS A-1-06}{Reprogramming Tumor-Associated Macrophages via Plant-Derived mtDNA Nanovesicles}{Marianna Dekert}{165}{biologia}
 \harmitem{10:35--11:00}{WFAIS A-1-06}{Effects of the diamagnetic matrix on the magnetic relaxation pathways of single-molecule magnets.}{Paweł Bonarek}{20}{chemia}
