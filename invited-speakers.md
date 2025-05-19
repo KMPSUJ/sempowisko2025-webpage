@@ -5,7 +5,7 @@ title="Invited Speakers"
 \duallang{
 # Invited Speakers
 
-## prof. Sebastian Szybka and Dr. Łukasz Lamża - Debate
+## prof. Sebastian Szybka and Dr. Łukasz Lamża — Debate
 \fig{/assets/speakers/szybka-lamza}
 
 ## Prof. Paolo Falcaro
@@ -22,7 +22,7 @@ More to come!
 }{
 # Zaproszeni prelegenci
 
-## prof. Sebastian Szybka and Dr Łukasz Lamża - Debata
+## prof. Sebastian Szybka and Dr Łukasz Lamża — Debata
 \fig{/assets/speakers/szybka-lamza}
 
 ## Prof. Paolo Falcaro
