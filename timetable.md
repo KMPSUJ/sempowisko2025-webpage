@@ -30,8 +30,8 @@ title="SeMPowisko timetable"
 
 ## Friday, May 23rd
 ~~~<ul>~~~
-\harmitem{10:00--10:45}{WMiI 1093}{Alice, Bob and Pan Tarhei: about quantum, thermodynamics and flow}{dr Jakub Czartowski}{202}{fizyka}
-\harmitem{10:45--11:30}{WMiI 1093}{Fossil electric wires}{prof. Mariusz Kędzierski}{203}{geografia}
+\harmitem{10:00--10:45}{WMiI 1093}{Fossil electric wires}{prof. Mariusz Kędzierski}{203}{geografia}
+\harmitem{10:45--11:30}{WMiI 1093}{Alice, Bob and Pan Tarhei: about quantum, thermodynamics and flow}{dr Jakub Czartowski}{202}{fizyka}
 \harmitem{11:30--12:00}{WMiI 1101}{}{Coffee break}{}{}
 \harmitem{12:00--12:45}{WMiI 1093}{Oxygen imaging in preclinical tumors}{prof. Martyna Elas}{204}{biologia}
 \harmitem{12:45--13:10}{WMiI 1093}{Probing the evolution of Long GRB properties through their cosmic formation history}{Dhruv Bal, Nikita Khatyia}{184}{fizyka}
