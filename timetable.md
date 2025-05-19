@@ -8,6 +8,14 @@ title="SeMPowisko timetable"
 # Harmonogram
 }
 
+\duallang{
+## Book Of Abstracts
+[download book of abstracts here](https://sempowisko.com/page/2025/assets/ksionszka/ksionszka_kolor.pdf)
+}{
+## Ksionszka abstraktów
+[pobierz ksionszkę abstraktów tu](https://sempowisko.com/page/2025/assets/ksionszka/ksionszka_kolor.pdf)
+}
+
 ## Thursday, May 22nd
 ~~~<ul>~~~
 \harmitem{10:00--12:00}{Solaris}{}{Synchrotron tour}{}{}
