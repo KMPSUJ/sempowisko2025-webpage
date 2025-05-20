@@ -51,17 +51,15 @@ title="SeMPowisko timetable"
 \harmitem{15:30--15:50}{WMiI 1093}{Gravitional wave scattering from the Sun and planets}{Daniel Kessler}{129}{fizyka}
 \harmitem{15:50--16:20}{WMiI 1101}{}{Coffee break}{}{}
 \harmitem{16:20--16:45}{WMiI 1093}{Spectral triples on graphs}{Filip Kowalski}{49}{fizyka}
-\harmitem{16:45--17:05}{WMiI 1093}{Experimental evaluation of molecular filters}{Adam Staniszewski}{101}{informatyka}
+\harmitem{16:45--17:05}{WMiI 1093}{Talking with the Satellites: Building a Low-Cost Ground Station with SatNOGS}{Mateusz Winiarski}{2}{inzynieria}
 \harmitem{17:05--17:25}{WMiI 1093}{Endogenous Cytoplasmic DNA: Implications for Inflammation and Age-Related Diseases}{Dariusz Koziołek}{163}{biologia}
 \harmitem{17:25--17:55}{WMiI 1101}{}{Coffee break}{}{}
 \harmitem{17:55--18:20}{WMiI 1093}{Krasiejów - a glimpse into a Triassic ecosystem}{Krzysztof Kaczmarek}{61}{geografia}
 \harmitem{18:20--18:40}{WMiI 1093}{The state of the climate system in 2024: A multi-scale perspective}{Damian Jojczyk}{180}{geografia}
-\harmitem{18:40--19:00}{WMiI 1093}{Talking with the Satellites: Building a Low-Cost Ground Station with SatNOGS}{Mateusz Winiarski}{2}{inzynieria}
 ~~~</ul>~~~
 
 ## Saturday, May 24th
 ~~~<ul>~~~
-\harmitem{10:15--10:35}{WFAIS A-1-06}{Reprogramming Tumor-Associated Macrophages via Plant-Derived mtDNA Nanovesicles}{Marianna Dekert}{165}{biologia}
 \harmitem{10:35--11:00}{WFAIS A-1-06}{Effects of the diamagnetic matrix on the magnetic relaxation pathways of single-molecule magnets.}{Paweł Bonarek}{20}{chemia}
 \harmitem{11:00--11:45}{WFAIS A-1-06}{Oxidation, Etching and Degradation of MoS2 and CrSBr Crystals.
 }{prof. Robert Szoszkiewicz}{205}{chemia}
@@ -73,7 +71,7 @@ title="SeMPowisko timetable"
 \harmitem{13:05--13:25}{WFAIS A-1-06}{Search for optimal quantum chemistry methods for the simulation of optical characteristics related to metal-centered electronic transitions in molecular luminophores}{Maja Romanowska}{95}{chemia}
 \harmitem{13:05--13:25}{WFAIS A-1-08}{Not Just Colour - How pigmentation of melanoma affects responsiveness to treatment}{Natalia Gajewska}{143}{biologia}
 \harmitem{13:25--13:45}{WFAIS A-1-06}{Photoluminescent composites based on rhenium(V) complexes and organic diblock copolymers}{Piotr Gas}{59}{chemia}
-\harmitem{13:25--13:45}{WFAIS A-1-08}{How your favourite snacks sabotage your meds: food – drug interactions.}{Karolina Kurek, Adam Kowalczyk}{41}{biologia}
+\harmitem{13:45--14:00}{WFAIS A-1-06}{Reprogramming Tumor-Associated Macrophages via Plant-Derived mtDNA Nanovesicles}{Marianna Dekert}{165}{biologia}
 \harmitem{13:45--14:00}{WFAIS A-1-06}{In vitro or in silico - machine learning in chemistry}{Daria Stocka}{106}{chemia}
 \harmitem{13:45--14:00}{WFAIS A-1-08}{On the Convergence in Spaces of Character Smaller than $\mathfrak{p}$}{Monika Brattig}{128}{matematyka}
 \harmitem{14:00--15:00}{WFAIS Bistro}{}{Lunch break}{}{}
@@ -105,7 +103,7 @@ title="SeMPowisko timetable"
 \harmitem{10:55--11:20}{WFAIS A-1-06}{At the edge of decidabi
 lity in first-order logic}{Łukasz Kamiński}{4}{informatyka}
 \harmitem{10:55--11:20}{WFAIS A-1-08}{Love letter to Leibniz notation and a quick trip to curved spaces}{Michał Mielnicki}{91}{fizyka}
-\harmitem{11:20--11:40}{WFAIS A-1-06}{Application of ordinal regression to ML-assisted RPG game design}{Jolanta Śliwa}{127}{informatyka}
+\harmitem{11:20--11:40}{WFAIS A-1-06}{How your favourite snacks sabotage your meds: food – drug interactions.}{Karolina Kurek, Adam Kowalczyk}{41}{biologia}
 \harmitem{11:20--11:40}{WFAIS A-1-08}{Finding holes and branches in the data}{Jakub Mazur}{36}{matematyka}
 \harmitem{11:40--12:00}{WFAIS A-1-06}{Standing waves in physics}{Mateusz Błaszak}{182}{fizyka}
 \harmitem{11:40--12:00}{WFAIS A-1-08}{Optimalisation of DELTA solar racing boat drive unit housing}{Kamil Zając}{118}{inzynieria}
