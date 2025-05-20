@@ -38,6 +38,7 @@ title="SeMPowisko timetable"
 
 ## Friday, May 23rd
 ~~~<ul>~~~
+\harmitem{9:30--10:00}{WCh hall}{}{Registration}{}{}
 \harmitem{10:00--10:45}{WMiI 1093}{Fossil electric wires}{prof. Mariusz Kędzierski}{203}{geografia}
 \harmitem{10:45--11:30}{WMiI 1093}{Alice, Bob and Pan Tarhei: about quantum, thermodynamics and flow}{dr Jakub Czartowski}{202}{fizyka}
 \harmitem{11:30--12:00}{WMiI 1101}{}{Coffee break}{}{}
@@ -60,6 +61,7 @@ title="SeMPowisko timetable"
 
 ## Saturday, May 24th
 ~~~<ul>~~~
+\harmitem{10:00--10:35}{WCh hall}{}{Registration}{}{}
 \harmitem{10:35--11:00}{WFAIS A-1-06}{Effects of the diamagnetic matrix on the magnetic relaxation pathways of single-molecule magnets.}{Paweł Bonarek}{20}{chemia}
 \harmitem{11:00--11:45}{WFAIS A-1-06}{Oxidation, Etching and Degradation of MoS2 and CrSBr Crystals.
 }{prof. Robert Szoszkiewicz}{205}{chemia}
@@ -98,6 +100,7 @@ title="SeMPowisko timetable"
 
 ## Sunday, May 25th
 ~~~<ul>~~~
+\harmitem{10:00--10:30}{WCh hall}{}{Registration}{}{}
 \harmitem{10:30--10:55}{WFAIS A-1-06}{Electrically Charged Black Holes}{Przemysław Podleśny}{16}{fizyka}
 \harmitem{10:30--10:55}{WFAIS A-1-08}{Multidimensional modelling in drought assesment problem.}{Maciej Ostapiuk}{23}{matematyka}
 \harmitem{10:55--11:20}{WFAIS A-1-06}{At the edge of decidabi
