@@ -14,6 +14,12 @@ title="Invited Speakers"
 ## Prof. Mariusz Kędzierski
 \fig{/assets/speakers/kedzierski}
 
+## Prof. Martyna Elas
+\fig{/assets/speakers/Elas}
+
+## Prof. Robert Szoszkiewicz
+\fig{/assets/speakers/Szoszkiewicz}
+
 ## Dr. Jakub Czartowski
 \fig{/assets/speakers/czartowski}
 
@@ -30,6 +36,12 @@ More to come!
 
 ## Dr hab. Mariusz Kędzierski, prof. UJ
 \fig{/assets/speakers/kedzierski}
+
+## Prof. Martyna Elas
+\fig{/assets/speakers/Elas}
+
+## Prof. Robert Szoszkiewicz
+\fig{/assets/speakers/Szoszkiewicz}
 
 ## Dr Jakub Czartowski
 \fig{/assets/speakers/czartowski}
