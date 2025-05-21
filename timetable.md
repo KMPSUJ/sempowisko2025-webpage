@@ -57,6 +57,7 @@ title="SeMPowisko timetable"
 \harmitem{17:25--17:55}{WMiI 1101}{}{Coffee break}{}{}
 \harmitem{17:55--18:20}{WMiI 1093}{Krasiejów - a glimpse into a Triassic ecosystem}{Krzysztof Kaczmarek}{61}{geografia}
 \harmitem{18:20--18:40}{WMiI 1093}{The state of the climate system in 2024: A multi-scale perspective}{Damian Jojczyk}{180}{geografia}
+\harmitem{18:40--19:00}{WMiI 1093}{Crater, Delta, and Evaporites: The Martian Jezero Crater from a Geological Perspective}{Kamil Romanik}{107}{geografia}
 ~~~</ul>~~~
 
 ## Saturday, May 24th
@@ -80,7 +81,6 @@ title="SeMPowisko timetable"
 \harmitem{15:00--15:20}{WFAIS A-1-06}{Proca Theory as a Modification of Classical Electrodynamics}{Maciej Ziobro}{183}{fizyka}
 \harmitem{15:00--15:20}{WFAIS A-1-08}{Fluvial dendro-zoo-geomorphology: beavers’ role in the modeling of river valleys}{Łukasz Baran}{166}{geografia}
 \harmitem{15:20--15:40}{WFAIS A-1-06}{Paper as a circular saw blade: Physical conditions for cutting}{Anastasiya Yushchuk}{168}{fizyka}
-\harmitem{15:20--15:40}{WFAIS A-1-08}{Crater, Delta, and Evaporites: The Martian Jezero Crater from a Geological Perspective}{Kamil Romanik}{107}{geografia}
 \harmitem{15:40--16:00}{WFAIS A-1-06}{Direct Observation of Perovskite Ferroelectric Domains by Scanning Electron Microscopy}{Dominik Piasecki}{140}{fizyka}
 \harmitem{15:40--16:00}{WFAIS A-1-08}{Seasonality of wind streaks on Meridiani Planum, Mars}{Szymon Mol}{56}{geografia}
 \harmitem{16:00--16:20}{WFAIS A-1-06}{Solving sine-Gordon equation through Bäklund transformation}{Matylda Róg}{61}{fizyka}
@@ -108,7 +108,6 @@ lity in first-order logic}{Łukasz Kamiński}{4}{informatyka}
 \harmitem{10:55--11:20}{WFAIS A-1-08}{Love letter to Leibniz notation and a quick trip to curved spaces}{Michał Mielnicki}{91}{fizyka}
 \harmitem{11:20--11:40}{WFAIS A-1-06}{How your favourite snacks sabotage your meds: food – drug interactions.}{Karolina Kurek, Adam Kowalczyk}{41}{biologia}
 \harmitem{11:20--11:40}{WFAIS A-1-08}{Finding holes and branches in the data}{Jakub Mazur}{36}{matematyka}
-\harmitem{11:40--12:00}{WFAIS A-1-06}{Standing waves in physics}{Mateusz Błaszak}{182}{fizyka}
 \harmitem{11:40--12:00}{WFAIS A-1-08}{Optimalisation of DELTA solar racing boat drive unit housing}{Kamil Zając}{118}{inzynieria}
 \harmitem{12:00--12:30}{WFAIS A-1-04}{}{Coffee break}{}{}
 \harmitem{12:30--12:55}{WFAIS A-1-06}{Shine bright like a black hole: Powering the most luminous explosions in the Universe}{Aleksander Lenart}{19}{fizyka}
