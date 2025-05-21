@@ -23,8 +23,6 @@ title="Invited Speakers"
 ## Dr. Jakub Czartowski
 \fig{/assets/speakers/czartowski}
 
-More to come!
-
 }{
 # Zaproszeni prelegenci
 
@@ -46,5 +44,4 @@ More to come!
 ## Dr Jakub Czartowski
 \fig{/assets/speakers/czartowski}
 
-Kolejni zostaną ogłoszeniu już niebawem!
 }
