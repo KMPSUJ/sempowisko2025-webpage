@@ -38,8 +38,7 @@ title="SeMPowisko timetable"
 
 ## Friday, May 23rd
 ~~~<ul>~~~
-\harmitem{9:30--10:00}{WCh hall}{}{Registration}{}{}
-\harmitem{10:00--10:45}{WMiI 1093}{Fossil electric wires}{prof. Mariusz Kędzierski}{203}{geografia}
+\harmitem{9:30--10:45}{WMiI hall}{}{Registration}{}{}
 \harmitem{10:45--11:30}{WMiI 1093}{Alice, Bob and Pan Tarhei: about quantum, thermodynamics and flow}{dr Jakub Czartowski}{202}{fizyka}
 \harmitem{11:30--12:00}{WMiI 1101}{}{Coffee break}{}{}
 \harmitem{12:00--12:45}{WMiI 1093}{Oxygen imaging in preclinical tumors}{prof. Martyna Elas}{204}{biologia}
