@@ -8,7 +8,7 @@ tags = ["main", "home"]
 
 
 ## Announcement: Get Together !
-$\int$ **Integratoin** $d\mu$ at TeaTime pub 19:30!!
+$\int$ **Integration** $d\mu$ at TeaTime pub 19:30!!
 
 Address: _Józefa Dietla 1, Kraków_
 
