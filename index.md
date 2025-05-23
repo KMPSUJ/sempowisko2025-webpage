@@ -6,6 +6,13 @@ tags = ["main", "home"]
 
 \krkbanner
 
+
+## Announcement: Get Together !
+$\int$ **Integratoin** $d\mu$ at TeaTime pub 19:30!!
+
+Address: _Józefa Dietla 1, Kraków_
+
+
 # \SeMPowisko 2025
 
 \duallang{

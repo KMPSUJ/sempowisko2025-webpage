@@ -57,6 +57,7 @@ title="SeMPowisko timetable"
 \harmitem{17:55--18:20}{WMiI 1093}{Krasiejów - a glimpse into a Triassic ecosystem}{Krzysztof Kaczmarek}{61}{geografia}
 \harmitem{18:20--18:40}{WMiI 1093}{The state of the climate system in 2024: A multi-scale perspective}{Damian Jojczyk}{180}{geografia}
 \harmitem{18:40--19:00}{WMiI 1093}{Crater, Delta, and Evaporites: The Martian Jezero Crater from a Geological Perspective}{Kamil Romanik}{107}{geografia}
+\harmitem{19:30--$\infty$}{TeaTime Pub, Józefa Dietla 1}{}{Intergration. Meet other participants!}{107}{geografia}
 ~~~</ul>~~~
 
 ## Saturday, May 24th
